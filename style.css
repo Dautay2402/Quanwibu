@@ -1,0 +1,25 @@
+.intro>h1{
+  color: plum ;
+  justify-items: center;
+  align-items: center;
+  margin-left: 38%;
+}
+.about{
+    border-style: groove;
+    padding-bottom: 20px;
+}
+.about>h2{
+    color: black;
+}
+.curren{
+    margin-top: 20px;
+    border-style: groove; 
+}
+.infor{
+    margin-top: 20px;
+    border-style: groove;
+    padding-bottom: 20px;
+}
+*{
+    background-color: azure;
+}
